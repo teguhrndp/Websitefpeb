@@ -4,20 +4,6 @@
         <div class="navbar-nav ms-auto">
           <a class="nav-link" aria-current="page" href="https://www.upi.edu/">Website Utama UPI</a>
           <a class="nav-link" aria-current="page" href="/zonaintegritas">Zona Integritas</a>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Zona Integritas
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item mb-2" href="/akuntansi">Manajemen Perubahan</a></li>
-              <li><a class="dropdown-item mb-2" href="/ieki">Penataan Tata laksana</a></li>
-              <li><a class="dropdown-item mb-2" href="/manajemen">Manajemen</a></li>
-              <li><a class="dropdown-item mb-2" href="/pendidikanakuntansi">Pendidikan Akuntansi</a></li>
-              <li><a class="dropdown-item mb-2" href="/pendidikanbisnis">Pendidikan Bisnis</a></li>
-              <li><a class="dropdown-item mb-2" href="/pendidikanekonomi">Pendidikan Ekonomi</a></li>
-              <li><a class="dropdown-item mb-2" href="/pendidikanmanajemenperkantoran">Pendidikan Manajemen Perkantoran</a></li>
-            </ul>
-          </li>
           <ul class="dropdown-menu">
               <li><a class="dropdown-item mb-2" href="/akuntansi">Akuntansi</a></li>
               <li><a class="dropdown-item mb-2" href="/ieki">Ilmu Ekonomi dan Keuangan Islam</a></li>
@@ -121,6 +107,18 @@
               <li><a class="dropdown-item mb-2" href="/informasiwajibberkala">Informasi Wajib Berkala</a></li>
               <li><a class="dropdown-item mb-2" href="/informasiwajibsedia">Informasi Wajib Sedia Setiap Saat</a></li>
               <li><a class="dropdown-item mb-2" href="https://ppid.upi.edu/">Permohonan Informasi Publik</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Pelayanan Publik
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item mb-2" href="/fasilitas">Maklumat Pelayanan</a></li>
+              <li><a class="dropdown-item mb-2" href="/ruangkelas">Jam Kerja Pelayanan</a></li>
+              <li><a class="dropdown-item mb-2" href="/smartclassroom">Pelayanan Akademik</a></li>
+              <li><a class="dropdown-item mb-2" href="/microteaching">Pelayanan Non Akademik</a></li>
+              
             </ul>
           </li>
         </ul>

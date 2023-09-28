@@ -31,8 +31,8 @@
             <p class="font-monospace"><a href="/profil">View</a></p>
             <p class="font-monospace"><a href="/profil">View</a></p>
             <p class="font-monospace"><a href="/profil">View</a></p>
-            <p class="font-monospace"><a href="/profil">View</a></p>
-            <p class="font-monospace"><a href="/profil">View</a></p>
+            <p class="font-monospace"><a href="/file/LAPORAN-TAHUNAN-FPEB-2019.docx">View</a></p>
+            <p class="font-monospace"><a href="https://www.upi.edu/files/upload/KALENDER%20AKADEMIK%20UPI%20TAHUN%202022-2023_.pdf">View</a></p>
             <p class="font-monospace"><a href="/profil">View</a></p>
             <p class="font-monospace"><a href="/profil">View</a></p>
             <p class="font-monospace"><a href="/profil">View</a></p>

@@ -1,0 +1,27 @@
+body {
+    min-height: 2000px;
+}
+.navbar {
+    background-color: #aaaaaa;
+}
+.jumbotron {
+    background-color: #ccf2f4;
+    padding-top: 3rem;
+}
+#about {
+    background-color: #f4f9f9;
+    padding-top: 3rem;
+}
+#project {
+    background-color: #ccf2f4;
+    padding-top: 3rem;
+}
+#skill {
+    background-color: #f4f9f9;
+}
+#contact {
+    background-color: #ccf2f4;
+}
+footer {
+    background-color: #aaaaaa;
+}

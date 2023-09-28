@@ -22,22 +22,22 @@
             <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
               <h4 class="text-uppercase mb-4 font-weight-bold">Program Studi</h4>
               <p>
-                <a class="text-white" href="">Akuntansi</a>
+                <a class="text-white" href="https://akuntansi.upi.edu/">Akuntansi</a>
               </p>
               <p>
-                <a class="text-white" href="">Pendidikan Akuntansi</a>
+                <a class="text-white" href="https://dikakuntansi.upi.edu/">Pendidikan Akuntansi</a>
               </p>
               <p>
                 <a class="text-white" href="">Manajemen</a>
               </p>
               <p>
-                <a class="text-white" href="">Pendidikan Manajemen Perkantoran</a>
+                <a class="text-white" href="https://manper.upi.edu/">Pendidikan Manajemen Perkantoran</a>
               </p>
               <p>
-                <a class="text-white" href="">Pendidikan Bisnis</a>
+                <a class="text-white" href="https://pendidikanbisnis.upi.edu/">Pendidikan Bisnis</a>
               </p>
               <p>
-                <a class="text-white" href="https://ieki.upi.edu/dosen-dan-staf-administrasi/">IEKI</a>
+                <a class="text-white" href="https://ieki.upi.edu/">IEKI</a>
               </p>
               <p>
                 <a class="text-white">Pendidikan Ekonomi</a>
@@ -56,8 +56,6 @@
               
               <p><i class="fas fa-envelope mr-3"></i> fpeb@upi.edu</p>
               <p><i class="fas fa-phone mr-3"></i> (022) 2001619</p>
-              <p><i class="fas fa-print mr-3"></i> (022) 2002091</p>
-              <p><i class="fas fa-print mr-3"></i> (022) 2002189</p>
             </div>
             <!-- Grid column -->
   

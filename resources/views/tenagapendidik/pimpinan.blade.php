@@ -63,7 +63,7 @@
       <div class="container">
         <div class="row text-center pt-4 mb-4">
           <div class="col">
-            <h1>Kepala Program Studi</h1><br>
+            <h1>Ketua Program Studi</h1><br>
           </div>
         </div>
         <div class="row justify-content-center text-center">

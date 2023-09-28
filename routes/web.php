@@ -95,5 +95,14 @@ Route::get('/permohonaninformasipublik', function () {
     return view('ppid/permohonaninformasipublik');
 });
 Route::get('/zonaintegritas', function () {
-    return view('zonaintegritas');
+    return view('zi/zonaintegritas');
+});
+Route::get('/zianggota', function () {
+    return view('zi/zianggota');
+});
+Route::get('/evidance', function () {
+    return view('zi/evidance');
+});
+Route::get('/area', function () {
+    return view('zi/area');
 });
