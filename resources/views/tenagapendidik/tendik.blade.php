@@ -7,42 +7,7 @@
       <div class="container">
         <div class="row text-center pt-4 mb-4">
           <div class="col">
-            <h1>Kepala Divisi</h1><br>
-          </div>
-        </div>
-        <div class="row justify-content-center text-center">
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Zakiyah Tsauroh Islamiyah, S.Pd., M.Pd. <br> Kepala Divisi Adum</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="techno" />
-              <div class="card-body">
-                <p class="card-text">Siti Kurniawati, S.Pd., M.Pd. <br>Kepala Divisi Akademik</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Candra Arizal, S.ST. <br> BPP</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section id="tendik">
-      <div class="container">
-        <div class="row text-center pt-4 mb-4">
-          <div class="col">
-            <br><br><h1>Staff</h1><br>
+            <h2>Tenaga Kependidikan Fakultas Pendidikan Ekonomi dan Bisnis</h2><br>
           </div>
         </div>
         <div class="row justify-content-center text-center">
@@ -232,8 +197,7 @@
           </div> 
         </div>
       </div>
-    </section>
-    @include('partials.svg')
+    </section><br><br>
     @include('partials.footer')
     @include('partials.scriptbootstrap')
   </body>

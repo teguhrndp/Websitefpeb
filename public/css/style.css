@@ -1,9 +1,23 @@
 body {
-    min-height: 2000px;
+    /* min-height: 2000px; */
 }
 .navbar {
     background-color: #aaaaaa;
 }
+
+/* .sidebar {
+    z-index: -1;
+} */
+
+
+.zi-link {
+    color:#555;
+}
+
+.zi-link:hover {
+    color:#777;
+}
+
 .jumbotron {
     background-color: #ccf2f4;
     padding-top: 3rem;

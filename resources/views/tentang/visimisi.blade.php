@@ -7,12 +7,30 @@
         <div class="container">
           <div class="row text-center pt-4 mb-4">
             <div class="col">
-              <h2>Visi Misi FPEB</h2>
-              <img src="img/visimisi.jpg" width="800" alt="">
+              <!-- <h2>Visi Misi FPEB</h2> -->
+              <div class="col-md-12 heading">
+                <!-- <h2 class="mb-2"><strong>Visi Misi FPEB</strong></h2> -->
+              </div>
             </div>
           </div>
-          
-          <div class="row justify-content-center text-center">
+          <div class="row">
+          <div class="col-md-4">
+            <div class="card">
+              <img src="{{asset('img/'.$getvisimisi[0]->gambar)}}" width="410" alt="">
+              <!-- <label class="mt-2"><img src="{{asset('img/'.$getvisimisi[0]->gambar)}}" width="410" alt=""><label> -->
+            </div>
+          </div>
+          <div class="col-md-6 mx-5">
+                <h3 class="mb-4">Visi</h3>
+                <div class="mx-3 text-justify">{!! html_entity_decode ($getvisimisi[0]->visi)!!}</div>
+                <h3 class="mb-4">Misi</h3>
+                <div class=" text-justify">{!! html_entity_decode ($getvisimisi[0]->misi)!!}</div>
+
+          </div>
+            <!-- <div class="col-md-4 bg-isola"></div> -->
+            
+</div>
+          <!-- <div class="row justify-content-center text-center">
             <div class="col-md-4">
               <p class="font-monospace">
                 Fakultas Pendidikan Ekonomi dan Bisnis (FPEB) secara resmi mulai berdiri pada tanggal 28 Oktober 2008 berdasarkan Surat Keputusan Rektor UPI Nomor 6067 tahun 2008. Sebelum menjadi fakultas tersendiri, FPEB merupakan sebuah jurusan yang berada di bawah Fakultas Pendidikan Ilmu Pengetahuan Sosial (FPIPS), yaitu Jurusan Pendidikan Ekonomi.Jurusan tersebut memiliki empat program studi kependidikan dan dua program studi nonkependidikan.Program-program studi kependidikan tersebut adalah Program Studi Pendidikan Akuntansi, Program Studi Pendidikan Manajemen Bisnis, Pendidikan Manajemen Perkantoran, dan Pendidikan Ekonomi dan Koperasi.Sedangkan Program Studi nonkependidikan adalah Program Studi Akuntansi dan Program Studi Manajemen.
@@ -26,7 +44,7 @@ Keberadaan Jurusan Pendidikan Ekonomi memiliki sejarah panjang, dimulai sejak ta
 Pada tahun 1995 Jurusan Pendidikan Dunia Usaha berubah namanya menjadi Jurusan Pendidikan Ekonomi, dengan program-program studi Pendidikan Akuntansi, Pendidikan Tata Niaga, Pendidikan Administrasi Perkantoran, dan Pendidikan Ekonomi  & Koperasi. Mulai tahun 2000 sejalan dengan Wider Mandate di Jurusan Pendidikan Ekonomi dibuka program studi nonkependidikan, yaitu Program Studi Akuntansi dan Program Studi Manajemen.
               </p>
             </div>
-          </div>
+          </div> -->
         </div>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ff5500" fill-opacity="1" d="M0,320L30,282.7C60,245,120,171,180,149.3C240,128,300,160,360,192C420,224,480,256,540,229.3C600,203,660,117,720,122.7C780,128,840,224,900,234.7C960,245,1020,171,1080,144C1140,117,1200,139,1260,165.3C1320,192,1380,224,1410,240L1440,256L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path></svg>
     @include('partials.footer')

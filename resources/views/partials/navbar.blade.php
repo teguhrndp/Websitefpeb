@@ -1,22 +1,34 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark border-bottom border-body" data-bs-theme="dark">
+<nav class="navbar navbar-expand-lg border-bottom border-body" style="background-color:rgb(252,179,40)">
     <div class="container">
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ms-auto">
           <a class="nav-link" aria-current="page" href="https://www.upi.edu/">Website Utama UPI</a>
           <a class="nav-link" aria-current="page" href="/zonaintegritas">Zona Integritas</a>
-          <ul class="dropdown-menu">
-              <li><a class="dropdown-item mb-2" href="/akuntansi">Akuntansi</a></li>
-              <li><a class="dropdown-item mb-2" href="/ieki">Ilmu Ekonomi dan Keuangan Islam</a></li>
-              <li><a class="dropdown-item mb-2" href="/manajemen">Manajemen</a></li>
-              <li><a class="dropdown-item mb-2" href="/pendidikanakuntansi">Pendidikan Akuntansi</a></li>
-              <li><a class="dropdown-item mb-2" href="/pendidikanbisnis">Pendidikan Bisnis</a></li>
-              <li><a class="dropdown-item mb-2" href="/pendidikanekonomi">Pendidikan Ekonomi</a></li>
-              <li><a class="dropdown-item mb-2" href="/pendidikanmanajemenperkantoran">Pendidikan Manajemen Perkantoran</a></li>
-            </ul>
-          <a class="nav-link" aria-current="page" href="https://ejournal.upi.edu/">Portal Jurnal</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Portal Jurnal dan Konferensi
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/aset">Jurnal Akuntansi Riset</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/JRAK">Jurnal Riset Akuntansi dan Keuangan</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/JPAK">Jurnal Pendidikan Akuntansi dan Keuangan</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/image">Jurnal Riset Manajemen</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/jpmanper">Jurnal Pendidikan Manajemen Perkantoran</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/rief">Review of Islamic Economics and Finance</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/manajerial">Jurnal Manajerial dan Sistem Informasi</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/remention">Research of Economics, Management, Business, and Education</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/thejobsreview">The International Journal of Business Review</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/strategic">Strategic Jurnal Pendidikan Manajemen Bisnis</a></li>
+                <li><a class="dropdown-item mb-2" href="https://ejournal.upi.edu/index.php/mdb">Jurnal Ilmu Manajemen dan Bisnis</a></li>
+                <li><a class="dropdown-item mb-2" href="https://bme-conference.upi.edu/">GCBME</a></li>
+                <li><a class="dropdown-item mb-2" href="https://icebef.upi.edu/">ICEBEF</a></li>
+              </ul>
+            </li>
           <a class="nav-link" aria-current="page" href="http://digilib.upi.edu/">Digital Library</a>
           <a class="nav-link" aria-current="page" href="https://cdc.upi.edu/">Alumni</a>
-          <a class="nav-link" href="https://www.upi.edu/files/upload/KALENDER%20AKADEMIK%20UPI%20TAHUN%202022-2023_.pdf">Kalender Akademik</a>
+          
+          <a class="nav-link" href="">e-Service</a>
+          <!-- <a class="nav-link" href="">e-Jurnal</a> -->
           <a class="nav-link" aria-current="page" href="https://pmb.upi.edu/">PMB UPI</a>
           <a class="nav-link" href="https://ppid.upi.edu/">PPID</a>
         </div>
@@ -25,7 +37,7 @@
   </nav>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/"><img src="img/logofpeb.png" alt="" width="200"></a>
+      <a class="navbar-brand" href="/"><img src="img/UPI-FPEB-Logo-blok.png" alt="" width="200"></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -36,9 +48,10 @@
               Tentang
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item mb-2" href="/profil">Profil</a></li>
-              <li><a class="dropdown-item mb-2" href="/sejarah">Sejarah</a></li>
-              <li><a class="dropdown-item mb-2" href="/visimisi">Visi Misi dan Tujuan</a></li>
+              <!-- <li><a class="dropdown-item mb-2" href="/profil">Profil</a></li> -->
+              <li><a class="dropdown-item mb-2" href="{{ route('sejarah') }}">Sejarah</a></li>
+              <li><a class="dropdown-item mb-2" href="{{ route('visimisi') }}">Visi Misi dan Tujuan</a></li>
+              <li><a class="dropdown-item mb-2" href="/pimpinan">Pimpinan</a></li>
               <li><a class="dropdown-item mb-2" href="/strukturorganisasi">Struktur Organisasi</a></li>
             </ul>
           </li>
@@ -47,18 +60,27 @@
               Akademik
             </a>
             <ul class="dropdown-menu">
+              <!-- <li><a class="dropdown-item mb-2" href="">Program Sarjana</a></li>
+              <li><a class="dropdown-item mb-2" href="">Program Magister</a></li>
+              <li><a class="dropdown-item mb-2" href="">Program Doktoral</a></li> -->
               <li><a class="dropdown-item mb-2" href="/akreditasi">Akreditasi</a></li>
               <li><a class="dropdown-item mb-2" href="/kurikulum">Kurikulum</a></li>
               <li><a class="dropdown-item mb-2" href="#">MBKM</a></li>
+
+              <!-- kalender akademik pindah ke  Menu akademik -->
+              <li>
+                  <a class="dropdown-item mb-2" href="https://www.upi.edu/files/upload/KALENDER%20AKADEMIK%20UPI%20TAHUN%202022-2023_.pdf">Kalender Akademik</a>
+              </li>
+          
             </ul>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Tenaga Pendidik
+              SDM 
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item mb-2" href="/strukturorganisasi">Struktur Organisasi</a></li>
-              <li><a class="dropdown-item mb-2" href="/pimpinan">Pimpinan</a></li>
+              <!-- <li><a class="dropdown-item mb-2" href="/strukturorganisasi">Struktur Organisasi</a></li> -->
+              <!-- <li><a class="dropdown-item mb-2" href="/pimpinan">Pimpinan</a></li> -->
               <li><a class="dropdown-item mb-2" href="/dosen">Dosen</a></li>
               <li><a class="dropdown-item mb-2" href="/tendik">Tenaga Kependidikan</a></li>
             </ul>

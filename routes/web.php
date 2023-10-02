@@ -106,3 +106,7 @@ Route::get('/evidance', function () {
 Route::get('/area', function () {
     return view('zi/area');
 });
+
+//TENTANG
+Route::get('/visimisi', 'App\Http\Controllers\ProfilController@showVisiMisi')->name('visimisi');
+Route::get('/sejarah', 'App\Http\Controllers\ProfilController@showSejarah')->name('sejarah');
