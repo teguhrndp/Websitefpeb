@@ -24,11 +24,10 @@
                 <li><a class="dropdown-item mb-2" href="https://icebef.upi.edu/">ICEBEF</a></li>
               </ul>
             </li>
-          <a class="nav-link" aria-current="page" href="http://digilib.upi.edu/">Digital Library</a>
+            <a class="nav-link" aria-current="page" href="https://dit-pendidikan.upi.edu/?page_id=499">Informasi Akademik</a>
+            <a class="nav-link" aria-current="page" href="http://digilib.upi.edu/">Digital Library</a>
           <a class="nav-link" aria-current="page" href="https://cdc.upi.edu/">Alumni</a>
-          
-          <a class="nav-link" href="">e-Service</a>
-          <!-- <a class="nav-link" href="">e-Jurnal</a> -->
+          <a class="nav-link" aria-current="page" href="https://cdc.upi.edu/">MBKM</a>
           <a class="nav-link" aria-current="page" href="https://pmb.upi.edu/">PMB UPI</a>
           <a class="nav-link" href="https://ppid.upi.edu/">PPID</a>
         </div>
@@ -99,15 +98,29 @@
               Program Studi
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item mb-2" href="/akuntansi">Akuntansi</a></li>
-              <li><a class="dropdown-item mb-2" href="/ieki">Ilmu Ekonomi dan Keuangan Islam</a></li>
-              <li><a class="dropdown-item mb-2" href="/manajemen">Manajemen</a></li>
               <li><a class="dropdown-item mb-2" href="/pendidikanakuntansi">Pendidikan Akuntansi</a></li>
               <li><a class="dropdown-item mb-2" href="/pendidikanbisnis">Pendidikan Bisnis</a></li>
-              <li><a class="dropdown-item mb-2" href="/pendidikanekonomi">Pendidikan Ekonomi</a></li>
               <li><a class="dropdown-item mb-2" href="/pendidikanmanajemenperkantoran">Pendidikan Manajemen Perkantoran</a></li>
+              <li><a class="dropdown-item mb-2" href="/pendidikanekonomi">Pendidikan Ekonomi - S1</a></li>
+              <li><a class="dropdown-item mb-2" href="/manajemen">Manajemen - S1</a></li>
+              <li><a class="dropdown-item mb-2" href="/akuntansi">Akuntansi</a></li>
+              <li><a class="dropdown-item mb-2" href="/ieki">Ilmu Ekonomi dan Keuangan Islam (IEKI)</a></li>
+              <li><a class="dropdown-item mb-2" href="/pendidikanekonomi">Pendidikan Ekonomi - S2</a></li>
+              <li><a class="dropdown-item mb-2" href="/pendidikanekonomi">Pendidikan Ekonomi - S3</a></li>
+              <li><a class="dropdown-item mb-2" href="/manajemen">Manajemen - S2</a></li>
+              <li><a class="dropdown-item mb-2" href="/manajemen">Manajemen - S3</a></li>
+              <li><a class="dropdown-item mb-2" href="/akuntansi">Ilmu Akuntansi - S2</a></li>
             </ul>
           </li>
+        </li><li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Kerjasama
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item mb-2" href="/">Dalam Negeri</a></li>
+            <li><a class="dropdown-item mb-2" href="/">Luar Negeri</a></li>
+          </ul>
+        </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Fasilitas
@@ -120,7 +133,6 @@
               <li><a class="dropdown-item mb-2" href="/labkom">Laboratorium Komputer</a></li>
               <li><a class="dropdown-item mb-2" href="/spacex">Space X</a></li>
             </ul>
-          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               PPID
@@ -136,10 +148,10 @@
               Pelayanan Publik
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item mb-2" href="/fasilitas">Maklumat Pelayanan</a></li>
-              <li><a class="dropdown-item mb-2" href="/ruangkelas">Jam Kerja Pelayanan</a></li>
-              <li><a class="dropdown-item mb-2" href="/smartclassroom">Pelayanan Akademik</a></li>
-              <li><a class="dropdown-item mb-2" href="/microteaching">Pelayanan Non Akademik</a></li>
+              <li><a class="dropdown-item mb-2" href="/maklumat">Maklumat Pelayanan</a></li>
+              <li><a class="dropdown-item mb-2" href="/jamkerja">Jam Kerja Pelayanan</a></li>
+              <li><a class="dropdown-item mb-2" href="/pelayananakademik">Pelayanan Akademik</a></li>
+              <li><a class="dropdown-item mb-2" href="/">Pelayanan Non Akademik</a></li>
               
             </ul>
           </li>

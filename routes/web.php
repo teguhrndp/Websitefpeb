@@ -107,6 +107,18 @@ Route::get('/area', function () {
     return view('zi/area');
 });
 
+
+//Pelayanan Publik
+Route::get('/maklumat', function () {
+    return view('layananpublik/maklumatpelayanan');
+});
+Route::get('/jamkerja', function () {
+    return view('layananpublik/jamkerja');
+});
+Route::get('/pelayananakademik', function () {
+    return view('layananpublik/pelayananakademik');
+});
+
 //TENTANG
 Route::get('/visimisi', 'App\Http\Controllers\ProfilController@showVisiMisi')->name('visimisi');
 Route::get('/sejarah', 'App\Http\Controllers\ProfilController@showSejarah')->name('sejarah');

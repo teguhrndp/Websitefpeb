@@ -22,8 +22,7 @@
             </div>
           </div>
         </div>
-    </section>
-    @include('partials.svg')
+      </section>
     @include('partials.footer')
     @include('partials.scriptbootstrap')
   </body>
