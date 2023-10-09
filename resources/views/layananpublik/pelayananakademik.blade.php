@@ -6,6 +6,8 @@
     <div class="container">
       <div class="row m-2 p-1">
         <h1>Pelayanan Akademik</h1><br><br>
+        @include('partials.listpelayananakademik')
+        <h2 class="text-center">Form Yang diperlukan</h2>
         <table class="table table-striped table-bordered m-4">
           <thead>
             <tr>

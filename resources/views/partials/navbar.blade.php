@@ -70,6 +70,7 @@
               <li>
                   <a class="dropdown-item mb-2" href="https://www.upi.edu/files/upload/KALENDER%20AKADEMIK%20UPI%20TAHUN%202022-2023_.pdf">Kalender Akademik</a>
               </li>
+              <li><a class="dropdown-item mb-2" href="/kelasinternasional">Kelas Internasional</a></li>
           
             </ul>
           </li>
@@ -89,6 +90,8 @@
               Kemahasiswaan
             </a>
             <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Kehidupan Kampus</a></li>
+              <li><a class="dropdown-item" href="#">Unit Kegiatan Mahasiswa</a></li>
               <li><a class="dropdown-item" href="#">Prestasi</a></li>
               <li><a class="dropdown-item" href="/organisasikemahasiswaan">Organisasi Kemahasiswaan</a></li>
             </ul>
@@ -151,7 +154,7 @@
               <li><a class="dropdown-item mb-2" href="/maklumat">Maklumat Pelayanan</a></li>
               <li><a class="dropdown-item mb-2" href="/jamkerja">Jam Kerja Pelayanan</a></li>
               <li><a class="dropdown-item mb-2" href="/pelayananakademik">Pelayanan Akademik</a></li>
-              <li><a class="dropdown-item mb-2" href="/">Pelayanan Non Akademik</a></li>
+              <li><a class="dropdown-item mb-2" href="/pelayanannonakademik">Pelayanan Non Akademik</a></li>
               
             </ul>
           </li>

@@ -28,6 +28,7 @@
           </tbody>
         </table>
         <p>*Tutup pada hari Sabtu dan Minggu serta Hari Libur Nasional</p>
+        <p>Contact Person +234-567-890</p>
       </div>
     </div>
 

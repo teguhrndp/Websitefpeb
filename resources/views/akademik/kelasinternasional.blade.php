@@ -3,8 +3,7 @@
   @include('partials.head')
   <body>
     @include('partials.navbar')
-    @include('partials.prodidosen')
-    @include('partials.svg')
+    <h1>Kelas Internasional</h1>
     @include('partials.footer')
     @include('partials.scriptbootstrap')
   </body>
