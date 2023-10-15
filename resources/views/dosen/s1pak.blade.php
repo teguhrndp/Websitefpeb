@@ -6,7 +6,7 @@
     @include('partials.prodidosen')
     <div class="container">
     <div class="row mt-3">
-        <br><h1 class="text-center">Program Studi Sarjana S1 Pendidikan Akuntansi</h1><br><br>
+        <br><h1 class="text-center">Program Pendidikan Akuntansi</h1><br><br>
         <table class="table table-striped table-bordered mt-4 mb-4">
           <thead>
             <tr>
@@ -27,11 +27,32 @@
               <td>5994754</td>
             </tr>
             <tr>
+              <td scope="row">Dr. H. Yayat Supriyatna, MM</td>
+              <td>Lektor Kepala</td>
+              <td>S2 Manajemen</td>
+              <td>Manajemen Investasi dan Portofolio</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Hj. Meta Arief, M.Si</td>
+              <td>Lektor Kepala</td>
+              <td>S3 Manajemen</td>
+              <td>Manajemen Stratejik Bisnis</td>
+              <td>5994696</td>
+            </tr>
+            <tr>
               <td scope="row">Drs. H. Ajang Mulyadi, MM</td>
               <td>Lektor Kepala</td>
               <td>S1 Pendidikan Akuntansi</td>
               <td>Manajemen Pembelajaran Akuntansi</td>
               <td>6745802</td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Kurjono, M.Pd</td>
+              <td>Lektor Kepala</td>
+              <td>S2 Pendidikan Ekonomi</td>
+              <td>Kewirausahaan Sosial</td>
+              <td>5994659</td>
             </tr>
             <tr>
                 <td scope="row">Dr. Imas Purnamasari, S.Pd, MM</td>
@@ -81,6 +102,13 @@
                 <td>S1 Pendidikan Akuntansi</td>
                 <td>Manajemen Investasi dan Portofolio</td>
                 <td>6722099</td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Yana Setiawan, S.Pd., M.M</td>
+              <td>Lektor</td>
+              <td>S3 Manajemen</td>
+              <td>Kewirausahaan Strategik</td>
+              <td></td>
             </tr>
             <tr>
                 <td scope="row">Raden Dian Hardiana, S.Pd., M.Si.</td>

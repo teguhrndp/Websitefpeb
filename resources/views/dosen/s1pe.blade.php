@@ -19,6 +19,41 @@
           </thead>
           <tbody>
             <tr>
+              <td scope="row">Prof.Dr.H. Disman, MS.</td>
+              <td>Guru Besar</td>
+              <td>S3 Pendidikan Ekonomi</td>
+              <td>Penelitian Eksperimen dan Non-Eksperimen Pend Ekonomi</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof.Dr.H. Eeng Ahman, MS.</td>
+              <td>Guru Besar</td>
+              <td>S3 Pendidikan Ekonomi</td>
+              <td>Teori Ekonomi Mikro</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof.Dr.H. Dadang Dahlan, M.Pd.</td>
+              <td>Guru Besar</td>
+              <td>S3 Pendidikan Ekonomi</td>
+              <td>Penelitian Tindakan Kelas</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof.Dr.H. Amir Machmud, M.Si.</td>
+              <td>Guru Besar</td>
+              <td>S2 Pendidikan Ekonomi</td>
+              <td>Ilmu Ekonomi</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Ikaputera Waspada, MM.</td>
+              <td>Lektor Kepala</td>
+              <td>S2 Manajemen</td>
+              <td>Manajemen Keuangan Perusahaan & Koperasi</td>
+              <td></td>
+            </tr>
+            <tr>
               <td scope="row">Dr. Neti Budiwati, M.Si.</td>
               <td>Lektor Kepala</td>
               <td>S1 Pendidikan Ekonomi</td>
@@ -33,6 +68,13 @@
               <td>5994754</td>
             </tr>
             <tr>
+              <td scope="row">Dr. Kusnendi, MS.</td>
+              <td>Lektor Kepala</td>
+              <td>S2 Pendidikan Ekonomi</td>
+              <td>Teori Ekonomi Makro</td>
+              <td></td>
+            </tr>
+            <tr>
               <td scope="row">Dr. Ani Pinayani, MM.</td>
               <td>Lektor Kepala</td>
               <td>S1 Pendidikan Ekonomi</td>
@@ -45,6 +87,13 @@
               <td>S1 Pendidikan Ekonomi</td>
               <td>Ekonomi Moneter</td>
               <td>6668198</td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Susanti Kurniawati, M.Si.</td>
+              <td>Lektor</td>
+              <td>S2 Pendidikan Ekonomi</td>
+              <td>Model-model Pembelajaran Ekonomi</td>
+              <td></td>
             </tr>
             <tr>
               <td scope="row">Dr. Siti Parhah, M.S.E.</td>

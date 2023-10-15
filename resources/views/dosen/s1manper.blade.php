@@ -19,33 +19,159 @@
           </thead>
           <tbody>
             <tr>
-              <td scope="row">Dr. H. Nono Supriatna, M.Si., CIISA.</td>
+              <td scope="row">Prof. Dr. Hj. Tjutju Yuniarsih, SE., M.Pd.</td>
+              <td>Guru Besar</td>
+              <td>S2 Manajemen Perkantoran</td>
+              <td>Pengelolaan Pendidikan</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. H. Suwatno, M.Si.</td>
+              <td>Guru Besar</td>
+              <td>S2 Manajemen Perkantoran</td>
+              <td>Pengelolaan Pendidikan</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. H. Edi Suryadi, M.Si.</td>
+              <td>Guru Besar</td>
+              <td>S2 Manajemen Perkantoran</td>
+              <td>Komunikasi Perkantoran</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. H. A. Sobandi, M.Si., M.Pd</td>
+              <td>Guru Besar</td>
+              <td>S2 Manajemen Perkantoran</td>
+              <td>Pengelolaan Pendidikan</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. Hj. Janah Sojanah, M.Si.</td>
+              <td>Guru Besar</td>
+              <td>S2 Pendidikan Ekonomi</td>
+              <td>Manajemen Sumber Daya Perkantoran</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. Hj. Nani Sutarni, M.Pd.</td>
+              <td>Guru Besar</td>
+              <td>S2 Pendidikan Ekonomi</td>
+              <td>Pengelolaan Pendidikan</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. Endang Supardi, M.Si.</td>
               <td>Lektor Kepala</td>
-              <td>S1 Akuntansi</td>
-              <td>Sistem Perencanaan dan Pengendalian Manajemen</td>
-              <td>5995836</td>
+              <td>S2 Pendidikan Ekonomi</td>
+              <td>Kurikulum dan Pembelajaran</td>
+              <td></td>
             </tr>
             <tr>
-              <td scope="row">Dr. Elis Mediawati, S.Pd., SE., M.Si., Ak., CA., ERMCP., CSRS.</td>
+              <td scope="row">Dr. Budi Santoso, M.Si.</td>
               <td>Lektor Kepala</td>
-              <td>S1 Akuntansi</td>
-              <td>Akuntansi Keuangan dan Pelaporan Syariah</td>
-              <td>6009471</td>
+              <td>S3 Pendidikan Ekonomi</td>
+              <td>Kepemimpinan Pendidikan</td>
+              <td></td>
             </tr>
             <tr>
-                <td scope="row">Dr. Rozmita Dewi Yuniarti, S.Pd., M.Si., CSRS., CSP., ChFl.</td>
-                <td>Lektor Kepala</td>
-                <td>S1 Akuntansi</td>
-                <td>Pengendalian Internal</td>
-                <td>6147161</td>
+              <td scope="row">Dr. Hj. Nani Imaniyati, M.Si.</td>
+              <td>Lektor Kepala</td>
+              <td>S2 Manajemen Perkantoran</td>
+              <td>Manajemen Sumber Daya Perkantoran</td>
+              <td></td>
             </tr>
             <tr>
-                <td scope="row">Dr. Elis Mediawati, S.Pd., SE., M.Si., Ak., CA., ERMCP., CSRS.</td>
-                <td>Lektor Kepala</td>
-                <td>S1 Akuntansi</td>
-                <td>Akuntansi Keuangan dan Pelaporan Syariah</td>
-                <td>6009471</td>
+              <td scope="row">Drs. Hendri Winata, M.Si.</td>
+              <td>Lektor Kepala</td>
+              <td>S1 Pendidikan Manajemen Perkantoran</td>
+              <td>Manajemen Sumber Daya Perkantoran</td>
+              <td>5994640</td>
             </tr>
+            <tr>
+              <td scope="row">Adman, M.Pd.</td>
+              <td>Lektor Kepala</td>
+              <td>S1 Pendidikan Manajemen Perkantoran</td>
+              <td>Manajemen Sumber Daya Perkantoran</td>
+              <td>5975671</td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Rasto, M.Pd.</td>
+              <td>Lektor Kepala</td>
+              <td>S2 Manajemen Perkantoran</td>
+              <td>Pengelolaan Pendidikan</td>
+              <td></td>
+            </tr>
+            <tr>
+                <td scope="row">Dr. Sambas Ali Muhidin, M.Si.</td>
+                <td>Lektor</td>
+                <td>S1 Pendidikan Manajemen Perkantoran</td>
+                <td>Kurikulum dan Pembelajaran</td>
+                <td>5994124</td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Hady Siti Hadijah, M.Si.</td>
+              <td>Lektor</td>
+              <td>S2 Perkantoran</td>
+              <td>Pengelolaan Pendidikan</td>
+              <td></td>
+          </tr>
+            <tr>
+                <td scope="row">Dr. Rini Intansari Meilani, M.Pd.</td>
+                <td>Lektor</td>
+                <td>S1 Pendidikan Manajemen Perkantoran</td>
+                <td>Kurikulum dan Pembelajaran</td>
+                <td>5994001</td>
+            </tr>
+            <tr>
+              <td scope="row">Resti Indriarti, SE., MM.</td>
+              <td>Asisten Ahli</td>
+              <td>S1 Pendidikan Manajemen Perkantoran</td>
+              <td>Manajemen Sumber Daya Perkantoran</td>
+              <td>6762460</td>
+          </tr>
+          <tr>
+              <td scope="row">Yosep Hernawan, ST., MT., IPM</td>
+              <td>Asisten Ahli</td>
+              <td>S1 Pendidikan Manajemen Perkantoran</td>
+              <td>Manajemen Mutu</td>
+              <td>6664961</td>
+          </tr>
+          <tr>
+              <td scope="row">Dian Addinna, S.E., BBA. Hons., MSM.</td>
+              <td>Asisten Ahli</td>
+              <td>S1 Pendidikan Manajemen Perkantoran</td>
+              <td>Komunikasi Perkantoran</td>
+              <td>6749268</td>
+          </tr>
+          <tr>
+              <td scope="row">Dr. Fahmi Jahidah Islamy, S.MB., M.M.</td>
+              <td>Asisten Ahli</td>
+              <td>S1 Pendidikan Manajemen Perkantoran</td>
+              <td>Manajemen Sumber Daya Perkantoran</td>
+              <td>6647689</td>
+          </tr>
+          <tr>
+              <td scope="row">Abi Sopyan Febrianto, SE., MM.</td>
+              <td>Asisten Ahli</td>
+              <td>S1 Pendidikan Manajemen Perkantoran</td>
+              <td>Manajemen Sumber Daya Perkantoran</td>
+              <td>6745861</td>
+          </tr>
+          <tr>
+            <td scope="row">Dr. Tutik Inayati, S. Mn., M.S.M.</td>
+            <td>Lektor</td>
+            <td>S2 Perkantoran</td>
+            <td>Teknologi Perkantoran</td>
+            <td></td>
+        </tr>
+          <tr>
+              <td scope="row">Riske Faldesiani, SE., MM.</td>
+              <td>Asisten Ahli</td>
+              <td>S1 Pendidikan Manajemen Perkantoran</td>
+              <td>Manajemen Sumber Daya Perkantoran</td>
+              <td>6833113</td>
+          </tr>
           </tbody>
         </table>
       </div>

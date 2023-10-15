@@ -19,6 +19,34 @@
           </thead>
           <tbody>
             <tr>
+              <td scope="row">Prof. Dr. H. Agus Rahayu, M.P.</td>
+              <td>Guru Besar</td>
+              <td>Manajemen</td>
+              <td>Ilmu Manajemen Pemasaran</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. Hj. Ratih Hurriyati, M.P.</td>
+              <td>Guru Besar</td>
+              <td>Manajemen</td>
+              <td>Ilmu Pendidikan Manajemen Pemasaran</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. H. Syamsul Hadi Senen, MM.</td>
+              <td>Guru Besar</td>
+              <td>Manajemen</td>
+              <td>Manajemen Sumber Daya Manusia</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. H. Hari Mulyadi, M.Si</td>
+              <td>Guru Besar</td>
+              <td>Pendidikan Ekonomi</td>
+              <td>Pendidikan Kewirausahaan</td>
+              <td></td>
+            </tr>
+            <tr>
               <td scope="row">Prof. Dr. Hj. B. Lena Nuryanti S., M.Pd.</td>
               <td>Guru Besar</td>
               <td>S1 Pendidikan Bisnis</td>
@@ -33,11 +61,32 @@
               <td>5993184</td>
             </tr>
             <tr>
+              <td scope="row">Dr. Bambang Widjajanta, MM</td>
+              <td>Lektor Kepala</td>
+              <td>Manajemen</td>
+              <td>Pemasaran Jasa</td>
+              <td></td>
+            </tr>
+            <tr>
               <td scope="row">Drs. Girang Razati, M.Si</td>
               <td>Lektor Kepala</td>
               <td>S1 Pendidikan Bisnis</td>
               <td>Manajemen Rantai Pasokan</td>
               <td>5984831</td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Ridwan Purnama, SH, M.Si</td>
+              <td>Lektor Kepala</td>
+              <td>Manajemen</td>
+              <td>Pendidikan Hukum dan Etika Bisnis</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Lili Adi Wibowo, S.Pd., S.Sos., MM.</td>
+              <td>Lektor</td>
+              <td>Manajemen</td>
+              <td>Strategic Experiential Marketing</td>
+              <td></td>
             </tr>
             <tr>
               <td scope="row">Dr. Puspo Dewi Dirgantari, S.Pd., M.T., M.M.</td>

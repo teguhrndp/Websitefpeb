@@ -19,38 +19,135 @@
           </thead>
           <tbody>
             <tr>
-              <td scope="row">Dr. H. Nono Supriatna, M.Si., CIISA.</td>
+              <td scope="row">Prof. Dr. H. Nanang Fattah, M.Pd.</td>
+              <td>Guru Besar</td>
+              <td>S1 Manajemen</td>
+              <td>Manajemen Keuangan Pendidikan(Manajemen Pembiayaan)</td>
+              <td>5979056 </td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. Vanessa Gaffar, SE. Ak., MBA.</td>
+              <td>Guru Besar</td>
+              <td>S3 Manajemen</td>
+              <td>Manajemen Pemasaran</td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td scope="row">Prof. Dr. Vanessa Gaffar, SE. Ak., MBA.</td>
+              <td>Guru Besar</td>
+              <td>S3 Manajemen</td>
+              <td>Manajemen Sumber Daya Manusia </td>
+              <td></td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Maya Sari, S.E., M.M.</td>
               <td>Lektor Kepala</td>
-              <td>S1 Akuntansi</td>
-              <td>Sistem Perencanaan dan Pengendalian Manajemen</td>
-              <td>5995836</td>
+              <td>S3 Manajemen</td>
+              <td>Manajemen Keuangan Perusahaan (Corporate Finance)</td>
+              <td></td>
             </tr>
             <tr>
-              <td scope="row">Dr. Elis Mediawati, S.Pd., SE., M.Si., Ak., CA., ERMCP., CSRS.</td>
+              <td scope="row">Dr. Rofi Rofaida, S.P., M.Si.</td>
               <td>Lektor Kepala</td>
-              <td>S1 Akuntansi</td>
-              <td>Akuntansi Keuangan dan Pelaporan Syariah</td>
-              <td>6009471</td>
+              <td>S2 Manajemen</td>
+              <td>Manajemen Modal Manusia (Human Capital Managemen)</td>
+              <td></td>
             </tr>
             <tr>
-                <td scope="row">Dr. Rozmita Dewi Yuniarti, S.Pd., M.Si., CSRS., CSP., ChFl.</td>
-                <td>Lektor Kepala</td>
-                <td>S1 Akuntansi</td>
-                <td>Pengendalian Internal</td>
-                <td>6147161</td>
+              <td scope="row">Budhi Pamungkas Gautama, S.E., M.Sc.</td>
+              <td>Lektor</td>
+              <td>S1 Manajemen</td>
+              <td>Manajemen Investasi</td>
+              <td>5993835</td>
             </tr>
             <tr>
-                <td scope="row">Dr. Elis Mediawati, S.Pd., SE., M.Si., Ak., CA., ERMCP., CSRS.</td>
-                <td>Lektor Kepala</td>
-                <td>S1 Akuntansi</td>
-                <td>Akuntansi Keuangan dan Pelaporan Syariah</td>
-                <td>6009471</td>
+                <td scope="row">Netti Siska Nurhayati, SE., MM.</td>
+                <td>Asisten Ahli</td>
+                <td>S1 Manajemen</td>
+                <td>Manajemen Keuangan Berkelanjutan</td>
+                <td>5994146</td>
             </tr>
+            <tr>
+                <td scope="row">Tia Yuliawati, S.Pd., M.M.</td>
+                <td>Asisten Ahli</td>
+                <td>S1 Manajemen</td>
+                <td>Manajemen Keuangan Keperilakuan (Behavioral Finance)</td>
+                <td>6722016</td>
+            </tr>
+            <tr>
+              <td scope="row">Dr. Chairul Furqon, S.Sos., MM.</td>
+              <td>Lektor</td>
+              <td>S1 Manejamen</td>
+              <td>Manajemen Sistem Informasi Bisnis</td>
+              <td>5994043</td>
+          </tr>
+          <tr>
+              <td scope="row">Dibias Lazuardi Maulid, SE.,MM.,MBA. </td>
+              <td>Tenaga Pengajar</td>
+              <td>S1 Manajemen</td>
+              <td>Manajemen Operasi Bisnis</td>
+              <td>-</td>
+          </tr>
+          <tr>
+              <td scope="row">Dr. Heny Hendrayati, S.IP., MM. </td>
+              <td>Lektor Kepala</td>
+              <td>S1 Manajemen</td>
+              <td>Manajemen Pemasaran Kewirausahaan</td>
+              <td>5994544</td>
+          </tr>
+          <tr>
+              <td scope="row">Dr. Ayu Krishna Yuliawati, S.Sos., MM. </td>
+              <td>Lektor Kepala</td>
+              <td>S1 Manajemen</td>
+              <td>Manajemen Pemasaran Berkelanjutan</td>
+              <td>5977407</td>
+          </tr>
+          <tr>
+              <td scope="row">Dr. Asep Miftahuddin, S.Si., MAB.</td>
+              <td>Tenaga Pengajar</td>
+              <td>S1 Manajemen</td>
+              <td>Manajemen Pemasaran Jasa</td>
+              <td>- </td>
+          </tr>
+          <tr>
+              <td scope="row">Dr. H. Mokh Adib Sultan, ST., MT.</td>
+              <td>Lektor</td>
+              <td>S1 Manajemen</td>
+              <td>Manajemen Pemasaran Stratejik</td>
+              <td> 6002446</td>
+          </tr>
+          <tr>
+              <td scope="row">Dr. Askolani, SE., MM.</td>
+              <td>Lektor</td>
+              <td>S1 Manajemen</td>
+              <td>Manajemen Sumber Daya Manusia Stratejik</td>
+              <td>6686495</td>
+          </tr>
+          <tr>
+              <td scope="row">Dr. Eka Surachman, S.Si., M.T.</td>
+              <td>Lektor</td>
+              <td>S1 Manajemen</td>
+              <td>Manajemen Stratejik Organisasi</td>
+              <td>5979141</td>
+          </tr>
+          <tr>
+              <td scope="row">Yoga Perdana, S.E., M.S.M.</td>
+              <td>Tenaga Pengajar</td>
+              <td>S1 Manajemen</td>
+              <td>Kewirausahaan Stratejik</td>
+              <td>6681836</td>
+          </tr>
+          <tr>
+              <td scope="row">Annisa Ciptagustia, S.E., M.Si.</td>
+              <td>Asisten Ahli </td>
+              <td>S1 Manajemen</td>
+              <td>Perilaku Organisasi</td>
+              <td>5994482 </td>
+          </tr>
           </tbody>
         </table>
       </div>
     </div>
-    @include('partials.svg')
     @include('partials.footer')
     @include('partials.scriptbootstrap')
   </body>

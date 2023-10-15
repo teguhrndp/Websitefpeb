@@ -126,14 +126,14 @@
         </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Fasilitas
+              Sarana dan Prasarana
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item mb-2" href="/fasilitas">Fasilitas</a></li>
               <li><a class="dropdown-item mb-2" href="/ruangkelas">Ruang Kelas</a></li>
               <li><a class="dropdown-item mb-2" href="/smartclassroom">Smartclassroom</a></li>
-              <li><a class="dropdown-item mb-2" href="/microteaching">Microteaching</a></li>
-              <li><a class="dropdown-item mb-2" href="/labkom">Laboratorium Komputer</a></li>
+              {{-- <li><a class="dropdown-item mb-2" href="/microteaching">Microteaching</a></li> --}}
+              <li><a class="dropdown-item mb-2" href="/labkom">Laboratorium</a></li>
               <li><a class="dropdown-item mb-2" href="/spacex">Space X</a></li>
             </ul>
           <li class="nav-item dropdown">

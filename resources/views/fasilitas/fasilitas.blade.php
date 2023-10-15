@@ -11,7 +11,7 @@
               <div class="card">
                 <iframe height="500" src="https://www.youtube.com/embed/PsxHDBrDzg4?si=ScXAdC5RRfO_SIXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <div class="card-body">
-                  <p class="card-text">Keseruan Staf FPEB dalam Kegiatan Mokaku</p>
+                  <p class="card-text">Video Pengenalan Fasilitas Di Lingkungan FPEB</p>
                 </div>
               </div>
             </div>

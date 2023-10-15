@@ -32,26 +32,27 @@
             <div class="col-md-4 col-lg-2 col-xl-2 mx-auto mt-3">
               <h5 class="text-uppercase mb-4 font-weight-bold">Program Studi</h5>
               <p>
-                <a class="text-white" href="https://akuntansi.upi.edu/">Akuntansi</a>
-              </p>
-              <p>
                 <a class="text-white" href="https://dikakuntansi.upi.edu/">Pendidikan Akuntansi</a>
-              </p>
-              <p>
-                <a class="text-white" href="">Manajemen</a>
-              </p>
-              <p>
-                <a class="text-white" href="https://manper.upi.edu/">Pendidikan Manajemen Perkantoran</a>
               </p>
               <p>
                 <a class="text-white" href="https://pendidikanbisnis.upi.edu/">Pendidikan Bisnis</a>
               </p>
               <p>
-                <a class="text-white" href="https://ieki.upi.edu/">IEKI</a>
+                <a class="text-white" href="https://manper.upi.edu/">Pendidikan Manajemen Perkantoran</a>
               </p>
               <p>
                 <a class="text-white">Pendidikan Ekonomi</a>
               </p>
+              <p>
+                <a class="text-white" href="">Manajemen</a>
+              </p>
+              <p>
+                <a class="text-white" href="https://akuntansi.upi.edu/">Akuntansi</a>
+              </p>
+              <p>
+                <a class="text-white" href="https://ieki.upi.edu/">IEKI</a>
+              </p>
+              
             </div>
             <!-- Grid column -->
   
