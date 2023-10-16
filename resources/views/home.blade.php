@@ -119,21 +119,30 @@
         </div>
             <div class="row justify-content-center">
               <div class="col-md-8">
-                <form>
+                <div class="alert alert-success alert-dismissible fade show d-none my-alert" role="alert">
+                  <strong>Terima Kasih !</strong> Pesan Anda sudah kami terima
+                  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+                <form name="form-pengaduan">
                   <div class="mb-3">
                     <label for="exampleInputnama1" class="form-label">Nama Lengkap</label>
-                    <input type="text" class="form-control" id="exampleInputNama1" />
+                    <input type="text" class="form-control" id="exampleInputNama1" name="nama"/>
                   </div>
                   <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email"/>
                     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                   </div>
                   <div class="mb-3">
                     <label for="exampleFormControlTextarea1" class="form-label">Pesan</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="pesan"></textarea>
                   </div>
-                  <button type="submit" class="btn btn-warning">Submit</button>
+                  <button type="submit" class="btn btn-warning btn-kirim">Submit</button>
+
+                  <button class="btn btn-warning btn-loading d-none" type="button" disabled>
+                    <span class="spinner-border spinner-border-sm" aria-hidden="true"></span>
+                    <span role="status">Loading...</span>
+                  </button>
                 </form>
                 <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
                   <path
@@ -147,5 +156,31 @@
     
     @include('partials.footer')
     @include('partials.scriptbootstrap')
+    <script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwKIw2qfkiU2waxg6KVba7omvz6HtPLzKQIGLyII7zNThU82xwYH4ss4iH47AaNEOOOeg/exec'
+  const form = document.forms['form-pengaduan'];
+  const btnKirim = document.querySelector('.btn-kirim');
+  const btnLoading = document.querySelector('.btn-loading');
+  const myAlert = document.querySelector('.my-alert'); 
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    //ketika tombol submit diklik
+    //tampilkan tombol loading hilangkan tombol kirik
+    btnLoading.classList.toggle('d-none');
+    btnKirim.classList.toggle('d-none');
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => {
+        btnLoading.classList.toggle('d-none');
+        btnKirim.classList.toggle('d-none');
+        // tampilkan alert
+        myAlert.classList.toggle('d-none');
+        //reset form
+        form.reset();
+        console.log('Success!', response)
+      })
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
   </body>
 </html>

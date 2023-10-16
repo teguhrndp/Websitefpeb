@@ -23,7 +23,7 @@
   <div class="swiper-container overflow-hidden" data-aos="fade-in">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src="img/corousel4.jpg" class="d-block w-100" alt="...">
+        <a href="/zonaintegritas"><img src="img/ziwbb.jpg" class="d-block w-100" alt="..."></a>
       </div>
       <div class="swiper-slide">
         <img src="img/corousel2.jpg" class="d-block w-100" alt="...">
