@@ -23,35 +23,37 @@
               <td>Guru Besar</td>
               <td>S3 Pendidikan Ekonomi</td>
               <td>Penelitian Eksperimen dan Non-Eksperimen Pend Ekonomi</td>
-              <td></td>
+              <td>5991816</td>
             </tr>
             <tr>
               <td scope="row">Prof.Dr.H. Eeng Ahman, MS.</td>
               <td>Guru Besar</td>
               <td>S3 Pendidikan Ekonomi</td>
               <td>Teori Ekonomi Mikro</td>
-              <td></td>
+              <td>5991829</td>
             </tr>
             <tr>
               <td scope="row">Prof.Dr.H. Dadang Dahlan, M.Pd.</td>
               <td>Guru Besar</td>
               <td>S3 Pendidikan Ekonomi</td>
               <td>Penelitian Tindakan Kelas</td>
-              <td></td>
+              <td>5993404</td>
             </tr>
             <tr>
               <td scope="row">Prof.Dr.H. Amir Machmud, M.Si.</td>
               <td>Guru Besar</td>
               <td>S2 Pendidikan Ekonomi</td>
               <td>Ilmu Ekonomi</td>
-              <td></td>
+              <td>5974528
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. Ikaputera Waspada, MM.</td>
               <td>Lektor Kepala</td>
               <td>S2 Manajemen</td>
               <td>Manajemen Keuangan Perusahaan & Koperasi</td>
-              <td></td>
+              <td>5993422
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. Neti Budiwati, M.Si.</td>
@@ -72,7 +74,8 @@
               <td>Lektor Kepala</td>
               <td>S2 Pendidikan Ekonomi</td>
               <td>Teori Ekonomi Makro</td>
-              <td></td>
+              <td>5993243
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. Ani Pinayani, MM.</td>
@@ -93,7 +96,7 @@
               <td>Lektor</td>
               <td>S2 Pendidikan Ekonomi</td>
               <td>Model-model Pembelajaran Ekonomi</td>
-              <td></td>
+              <td>6122723</td>
             </tr>
             <tr>
               <td scope="row">Dr. Siti Parhah, M.S.E.</td>

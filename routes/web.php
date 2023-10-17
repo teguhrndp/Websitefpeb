@@ -89,13 +89,18 @@ Route::get('/informasiwajibsedia', function () {
 Route::get('/permohonaninformasipublik', function () {
     return view('ppid/permohonaninformasipublik');
 });
+
+
 Route::get('/zonaintegritas', function () {
     return view('zi/zonaintegritas');
+});
+Route::get('/tentang', function () {
+    return view('zi/tentang');
 });
 Route::get('/zianggota', function () {
     return view('zi/zianggota');
 });
-Route::get('/evidance', function () {
+Route::get('/dokumentasi', function () {
     return view('zi/evidance');
 });
 Route::get('/area', function () {

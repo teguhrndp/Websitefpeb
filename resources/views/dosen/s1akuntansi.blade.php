@@ -23,14 +23,16 @@
               <td>Guru Besar </td>
               <td>Magister Ilmu Akuntansi </td>
               <td>Ilmu Akuntansi</td>
-              <td></td>
+              <td>259600
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. H. Ikin Solikin, SE., M.Si, Ak., CA.</td>
               <td>Lektor Kepala</td>
               <td>Magister Ilmu Akuntansi</td>
               <td>Akuntansi Publik</td>
-              <td></td>
+              <td>5994587
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. H. Nono Supriatna, M.Si., CIISA.</td>
@@ -44,14 +46,16 @@
               <td>Lektor Kepala</td>
               <td>Magister Ilmu Akuntansi</td>
               <td>Akuntansi dan Tata Kelola Syariah</td>
-              <td></td>
+              <td>6009264
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. Aristanti Widyaningsih, S.Pd., M.Si., CPMA., CRMP.</td>
               <td>Lektor Kepala</td>
               <td>Magister Ilmu Akuntansi</td>
               <td>Governansi Korporasi</td>
-              <td></td>
+              <td>5975674
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. Elis Mediawati, S.Pd., SE., M.Si., Ak., CA., ERMCP., CSRS.</td>
@@ -79,7 +83,8 @@
               <td>Lektor</td>
               <td>Manajemen</td>
               <td>Manajemen Risiko</td>
-              <td></td>
+              <td>259602
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. Toni Heryana, S.Pd, MM.,CRA, CRP</td>
@@ -93,7 +98,8 @@
               <td>Lektor </td>
               <td>Magister Ilmu Akuntansi</td>
               <td>Audit Sektor Publik</td>
-              <td></td>
+              <td>5993330
+              </td>
             </tr>
             <tr>
               <td scope="row">Indah Fitriani, SE.,Ak., M.Ak., CA., ChFl.</td>
@@ -128,7 +134,8 @@
               <td>Lektor </td>
               <td>Magister Ilmu Akuntansi </td>
               <td>Akuntansi dan Perpajakan</td>
-              <td> </td>
+              <td>6027190
+              </td>
             </tr>
             <tr>
               <td scope="row">Hanifa Zulhaimi, S.Pd., M.Ak., ChFl., CIISA.</td>

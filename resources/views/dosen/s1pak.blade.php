@@ -108,7 +108,7 @@
               <td>Lektor</td>
               <td>S3 Manajemen</td>
               <td>Kewirausahaan Strategik</td>
-              <td></td>
+              <td>5996344</td>
             </tr>
             <tr>
                 <td scope="row">Raden Dian Hardiana, S.Pd., M.Si.</td>

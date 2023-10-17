@@ -35,7 +35,7 @@
             <div class="card">
               <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
               <div class="card-body">
-                <p class="card-text">Prof. Dr. Vanessa Gaffar, SE., Ak., MBA <br>Wakil Dekan I</p>
+                <p class="card-text">Prof. Dr. Vanessa Gaffar, SE., Ak., MBA <br>Wakil Dekan Bidang Akademik</p>
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@
             <div class="card">
               <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="techno" />
               <div class="card-body">
-                <p class="card-text">Dr. Toni Heryana, S.Pd., MM., CRA., CRP<br>Wakil Dekan II</p>
+                <p class="card-text">Dr. Toni Heryana, S.Pd., MM., CRA., CRP<br>Wakil Dekan Bidang Sumber Daya dan Keuangan</p>
               </div>
             </div>
           </div>
@@ -52,155 +52,7 @@
               <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
               <div class="card-body">
                 <p class="card-text">Dr. Lili Adi Wibowo, S.Pd., S.Sos., MM.
-                  <br> Wakil Dekan III</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section id="tendik">
-      <div class="container">
-        <div class="row text-center pt-4 mb-4">
-          <div class="col">
-            <h1>Ketua Program Studi</h1><br>
-          </div>
-        </div>
-        <div class="row justify-content-center text-center">
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section id="tendik">
-      <div class="container">
-        <div class="row text-center pt-4 mb-4">
-          <div class="col">
-            <h1>Kepala Laboratorium dan Koordinator</h1><br>
-          </div>
-        </div>
-        <div class="row justify-content-center text-center">
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-4">
-            <div class="card">
-              <img src="img/tendik/tendik1.jpg" class="card-img-top" alt="rekalogi" />
-              <div class="card-body">
-                <p class="card-text">Prof. Dr. H. Eeng Ahman, MS.
-                  <br> Dekan Fakultas Pendidikan Ekonomi dan Bisnis</p>
+                  <br> Wakil Dekan Bidang Kemahasiswaan</p>
               </div>
             </div>
           </div>

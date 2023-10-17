@@ -26,7 +26,7 @@
         <a href="/zonaintegritas"><img src="img/ziwbb.jpg" class="d-block w-100" alt="..."></a>
       </div>
       <div class="swiper-slide">
-        <img src="img/corousel2.jpg" class="d-block w-100" alt="...">
+        <img src="img/pawai.jpeg" class="d-block w-100" alt="...">
       </div>
       <div class="swiper-slide">
         <img src="img/ziwbb.jpg" class="d-block w-100" alt="...">

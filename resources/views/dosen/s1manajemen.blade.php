@@ -30,28 +30,24 @@
               <td>Guru Besar</td>
               <td>S3 Manajemen</td>
               <td>Manajemen Pemasaran</td>
-              <td> </td>
-            </tr>
-            <tr>
-              <td scope="row">Prof. Dr. Vanessa Gaffar, SE. Ak., MBA.</td>
-              <td>Guru Besar</td>
-              <td>S3 Manajemen</td>
-              <td>Manajemen Sumber Daya Manusia </td>
-              <td></td>
+              <td>5993246
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. Maya Sari, S.E., M.M.</td>
               <td>Lektor Kepala</td>
               <td>S3 Manajemen</td>
               <td>Manajemen Keuangan Perusahaan (Corporate Finance)</td>
-              <td></td>
+              <td>5984857
+              </td>
             </tr>
             <tr>
               <td scope="row">Dr. Rofi Rofaida, S.P., M.Si.</td>
               <td>Lektor Kepala</td>
               <td>S2 Manajemen</td>
               <td>Manajemen Modal Manusia (Human Capital Managemen)</td>
-              <td></td>
+              <td>5993860
+              </td>
             </tr>
             <tr>
               <td scope="row">Budhi Pamungkas Gautama, S.E., M.Sc.</td>

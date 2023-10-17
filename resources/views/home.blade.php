@@ -62,7 +62,7 @@
         <div class="row justify-content-center text-center">
           <div class="col-md-4 mb-4">
             <div class="card" style="height:350px">
-              <img src="img/ziwbbgaleri.jpeg" class="card-img-top" style="height:200px" alt="konstan" />
+              <img src="img/ziwbbgaleri.jpeg" class="card-img-top" style="height:300px" alt="konstan" />
               <div class="card-body">
                 <p class="card-text" style="height:100px;overflow-y:auto">Sosialisasi ZIWBB di lingkunga FPEB</p>
               </div>
@@ -70,15 +70,15 @@
           </div>
           <div class="col-md-4 mb-4">
             <div class="card" style="height:350px">
-              <img src="img/berita2.jpg" class="card-img-top" style="height:200px" alt="teakops" />
+              <img src="img/juara2.jpg" class="card-img-top" style="height:300px" alt="teakops" />
               <div class="card-body">
-                <p class="card-text" style="height:100px;overflow-y:auto">Kegiatan Purnabakti Undang Edi yang dihadiri Dekan serta Wakil Dekan</p>
+                <p class="card-text" style="height:100px;overflow-y:auto">Juara Harapan 2 Acara Dies Natalis Universitas Pendidikan Indonesia kr 69 kategori Stand Terbaik</p>
               </div>
             </div>
           </div>
           <div class="col-md-4 mb-4">
             <div class="card" style="height:350px">
-              <img src="img/berita3.jpg" class="card-img-top" style="height:200px" alt="digitalgarage" />
+              <img src="img/berita3.jpg" class="card-img-top" style="height:300px" alt="digitalgarage" />
               <div class="card-body">
                 <p class="card-text" style="height:100px;overflow-y:auto">FPEB meraih Juara 1 dalam Cabang Olahraga Batminton Putri beregu di pagelaran Pordoska 2023</p>
               </div>
@@ -86,7 +86,7 @@
           </div>
           <div class="col-md-4 mb-4">
             <div class="card" style="height:350px">
-              <img src="img/berita1.JPG" class="card-img-top" style="height:200px" alt="rekalogi" />
+              <img src="img/berita1.JPG" class="card-img-top" style="height:300px" alt="rekalogi" />
               <div class="card-body">
                 <p class="card-text" style="height:100px;overflow-y:auto">Keseruan Staf FPEB dalam Kegiatan Mokaku</p>
               </div>
@@ -94,7 +94,7 @@
           </div>
           <div class="col-md-4 mb-4">
             <div class="card" style="height:350px">
-              <img src="img/berita4.jpeg" class="card-img-top" style="height:200px" alt="techno" />
+              <img src="img/berita4.jpeg" class="card-img-top" style="height:300px" alt="techno" />
               <div class="card-body">
                 <p class="card-text" style="height:100px;overflow-y:auto">Kegiatan Motivasi Pegawai 2023 ke Malang</p>
               </div>
